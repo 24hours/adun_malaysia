@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
     require 'scraperwiki/simple_html_dom.php';
 
     $strUrl = 'http://en.wikipedia.org/wiki/Malaysian_State_Assembly_Representatives_(2008-2013)';
